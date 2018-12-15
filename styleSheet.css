@@ -1,71 +1,72 @@
 * {
-    text-transform: capitalize;
-    font-family: sans-serif;
+  text-transform: capitalize;
+  font-family: sans-serif;
 }
 body {
-    background-color: #80e0f5;
+  background-color: #80e0f5;
 }
 .header_div {
-    background-color: #38ccf3;
-    padding: .8rem;    
-    color: white;
-    font-size: 1.5rem;
-    margin: 1rem 13rem .5rem 13rem;
+  border-top-left-radius: .5em;
+  border-top-right-radius: .5em;
+  background-color: #38ccf3;
+  padding: 0.5em;
+  color: white;
+  font-size: 1.5rem;
+  margin: 1rem 13rem 0.5rem 13rem;
 }
 .body_div {
-    padding-top: 1em;
-    margin: 0rem 13rem 0rem 13rem;
-    background-color: white;
+  padding-top: 1em;
+  margin: 0rem 13rem 0rem 13rem;
+  background-color: white;
+  border-bottom-left-radius: .5em;
+  border-bottom-right-radius: .5em;
 }
 .nested_div {
-    padding: 1.5em;
-    margin: 2em 5em 0em 5em;
-    border: 2px dashed #b0d4f4;
-    text-align: center;
+  padding: 1.5em;
+  margin: 2em 5em 0em 5em;
+  border: 2px dashed #b0d4f4;
+  text-align: center;
 }
 .orP {
-    color: gray;
+  color: gray;
 }
 .bws_Btn {
-    background-color: #38ccf3;
-    color: white;
-    padding: .5em;
-    border: none;
-    width: 7em;
-    font-size: 1em;
+  background-color: #38ccf3;
+  color: white;
+  padding: 0.5em;
+  border: none;
+  width: 7em;
+  font-size: 1em;
 }
 table {
-    margin-top: 1.5em;
-    margin-left: 5em;
+  margin: 1.5em 0em 0em 5em;
 }
 th {
-    text-align: right;
-    font-weight: normal;
-    color: #333;
-    line-height: 3em;
+  text-align: right;
+  font-weight: normal;
+  color: #333;
+  line-height: 3em;
 }
 input {
-    margin-left: 1.5em;
-    padding: .5em;
-    width: 37rem;
-    font-size: 1em;
+  margin-left: 1.5em;
+  padding: 0.5em;
+  width: 37em;
+  font-size: 1em;
 }
 .bottom_btn_01 {
-    background-color: white;
-    color: gray;
-    padding: .7rem;
-    width: 5rem;
-    border: none;
-    margin-left: 41.7rem;
-    margin-bottom: 1.5rem;
-    margin-top: .5rem;
-    font-size: 1em;
+  background-color: white;
+  color: gray;
+  padding: 0.7rem;
+  width: 5rem;
+  border: none;
+  margin: 0.5em 0em 1.5em 41.7em;
+  font-size: 1em;
 }
 .bottom_btn_02 {
-    background-color: #38ccf3;
-    color: white;
-    padding: .6rem;
-    width: 5.5rem;
-    border: none;
-    font-size: 1em;
+  background-color: #38ccf3;
+  color: white;
+  padding: 0.6rem;
+  width: 5.5rem;
+  border: none;
+  font-size: 1em;
 }
